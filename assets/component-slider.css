@@ -300,7 +300,7 @@ slider-component.slider-component-full-width {
 }
 
 .slider-counter__link--dots:not(.slider-counter__link--active):hover .dot {
-  border-color: white;
+  border-color: rgb(var(--color-foreground));
 }
 
 .slider-counter__link--dots .dot,
