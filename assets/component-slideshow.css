@@ -131,7 +131,7 @@ slideshow-component .slideshow.banner {
     /* position: relative; */
     position: absolute;
     bottom: 2%;
-    left: cacl(50% - 43px);
+    left: calc(50% - 43px);
   }
 }
 
