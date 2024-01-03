@@ -169,14 +169,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand",
+            "heading": "TechArtDev inspirar y recrea el arte tecnológico.",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>¡Bienvenido a nuestra tienda! Aquí encontrarás una amplia gama de artículos con diseños personalizados e impresionantes ilustraciones. Nuestra pasión por la creatividad y la innovación se refleja en cada uno de nuestros productos únicos.<br\/><br\/>Desde programación, juegos hasta obras de arte icónicas, con impresionantes ilustraciones, nuestra colección está hecha para aquellos que buscan incorporar su pasión a su vida cotidiana. Cada diseño está cuidadosamente diseñado para capturar la esencia y llevarla al mundo de la moda.<\/p>"
           }
         }
       },
