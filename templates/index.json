@@ -77,9 +77,49 @@
         "show_vendor": true,
         "show_rating": true,
         "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
         "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "1f6c316a-6468-4fd8-9bf4-19a649168766": {
+      "type": "collection-list",
+      "blocks": {
+        "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camisetas-de-programacion"
+          }
+        },
+        "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tazas-de-programacion"
+          }
+        },
+        "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camisetas-de-juegos"
+          }
+        }
+      },
+      "block_order": [
+        "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-1",
+        "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-2",
+        "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-3"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -111,6 +151,7 @@
         "product",
         "collection-1"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Multimedia collage",
         "heading_size": "h2",
@@ -223,6 +264,7 @@
   "order": [
     "d49c14dd-5879-4cf5-8919-905a3fc1b134",
     "featured_collection",
+    "1f6c316a-6468-4fd8-9bf4-19a649168766",
     "collage",
     "rich_text",
     "video",
