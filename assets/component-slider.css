@@ -375,6 +375,11 @@ slider-component.slider-component-full-width {
   cursor: not-allowed;
 }
 
+.slider-button--next,
+.slider-button--prev{
+  display: none;
+}
+
 .slider-button--next .icon {
   transform: rotate(-90deg);
 }
