@@ -2811,7 +2811,7 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item span {
-  display: none;
+ 
   transition: text-decoration var(--duration-short) ease;
 }
 
