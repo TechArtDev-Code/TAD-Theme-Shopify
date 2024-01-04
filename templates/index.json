@@ -169,8 +169,8 @@
         "column1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Elige como pagar",
+            "text": "<p>Paga con tarjetas de debito y crédito, PayPal o si lo prefieres también esta la opción de pagar con Mercado Pago .  <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -178,8 +178,8 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Procesar y Enviar",
+            "text": "<p>Periodo de 1 a 3 días hábiles en promedio 2 días, para procesar, producir y enviar tu orden. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -187,8 +187,8 @@
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Entrega",
+            "text": "<p>El tiempo estimado de entrega varia dependiendo el lugar y país, dentro de los EE. UU. el tiempo de entrega es de 3 a 6 días hábiles. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -199,7 +199,6 @@
         "column2",
         "column3"
       ],
-      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -215,36 +214,6 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "TechArtDev inspirar y recrea el arte tecnológico.",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>¡Bienvenido a nuestra tienda! Aquí encontrarás una amplia gama de artículos con diseños personalizados e impresionantes ilustraciones. Nuestra pasión por la creatividad y la innovación se refleja en cada uno de nuestros productos únicos.<br\/><br\/>Desde programación, juegos hasta obras de arte icónicas, con impresionantes ilustraciones, nuestra colección está hecha para aquellos que buscan incorporar su pasión a su vida cotidiana. Cada diseño está cuidadosamente diseñado para capturar la esencia y llevarla al mundo de la moda.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
       }
     },
     "video": {
@@ -269,7 +238,6 @@
     "1f6c316a-6468-4fd8-9bf4-19a649168766",
     "collage",
     "multicolumn",
-    "rich_text",
     "video"
   ]
 }
