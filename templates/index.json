@@ -24,17 +24,18 @@
         "template--21848813338946__d49c14dd-5879-4cf5-8919-905a3fc1b134-slide-2": {
           "type": "slide",
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/slider_store.png",
+            "heading": "<strong>Regalos perfecto para programadores<\/strong>",
+            "heading_size": "h0",
+            "subheading": "Únicas y divertidas camisetas, tazas y regalos",
+            "button_label": "",
             "link": "",
             "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "scheme-3",
             "text_alignment_mobile": "center"
           }
         }
@@ -45,7 +46,7 @@
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "small",
+        "slide_height": "medium",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 5,
