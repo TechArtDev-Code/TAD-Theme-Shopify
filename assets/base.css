@@ -2801,7 +2801,8 @@ details[open] > .header__submenu {
 }
 
 .header__menu-item {
-  padding: 1.2rem;
+  /* padding: 1.2rem; */
+  background: gray;
   text-decoration: none;
   /* color: rgba(var(--color-foreground), 0.75); */
   color: #1A1F35;
