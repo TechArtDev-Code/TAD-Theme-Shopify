@@ -169,6 +169,7 @@
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/3.png",
             "title": "Elige como pagar",
             "text": "<p>Paga con tarjetas de debito y crédito, PayPal o si lo prefieres también esta la opción de pagar con Mercado Pago .  <\/p>",
             "link_label": "",
@@ -178,6 +179,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2_04bd69dd-2d0f-45de-b261-b26bb10e229f.png",
             "title": "Procesar y Enviar",
             "text": "<p>Periodo de 1 a 3 días hábiles en promedio 2 días, para procesar, producir y enviar tu orden. <\/p>",
             "link_label": "",
@@ -187,6 +189,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/1_db520d1d-995e-4eda-b390-afae57c940e7.png",
             "title": "Entrega",
             "text": "<p>El tiempo estimado de entrega varia dependiendo el lugar y país, dentro de los EE. UU. el tiempo de entrega es de 3 a 6 días hábiles. <\/p>",
             "link_label": "",
