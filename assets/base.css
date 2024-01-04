@@ -2842,7 +2842,6 @@ details[open] > .header__menu-item .icon-caret {
   color: rgb(var(--color-foreground));
   text-decoration: underline;
   text-underline-offset: 0.3rem; */
-  text-shadow: 0 0 10px #1A1F35;
   font-weight: 700;
 }
 
