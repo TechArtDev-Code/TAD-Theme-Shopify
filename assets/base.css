@@ -2805,11 +2805,11 @@ details[open] > .header__submenu {
   text-decoration: none;
   /* color: rgba(var(--color-foreground), 0.75); */
   color: #1A1F35;
-  font-weight: 700;
 }
 
 .header__menu-item:hover {
   /* color: rgb(var(--color-foreground)); */
+  font-weight: 700;
   text-shadow: 0 0 10px #1A1F35;
 }
 
