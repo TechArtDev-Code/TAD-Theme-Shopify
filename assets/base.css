@@ -2813,7 +2813,7 @@ details[open] > .header__submenu {
 
 .header__menu-item:hover {
   /* color: rgb(var(--color-foreground)); */
-  color: #1A1F35;
+  color: #49599D;
   text-shadow: 0 0 10px #1A1F35;
 }
 
