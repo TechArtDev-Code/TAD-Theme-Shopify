@@ -2806,6 +2806,7 @@ details[open] > .header__submenu {
   width: 10rem;
   text-decoration: none;
   /* color: rgba(var(--color-foreground), 0.75); */
+  text-align: center;
   color: #1A1F35;
   margin-right: 5px;
 }
@@ -2818,7 +2819,6 @@ details[open] > .header__submenu {
 
 .header__menu-item span {
   /* transition: text-decoration var(--duration-short) ease; */
-  text-align: center;
 }
 
 .header__menu-item:hover span {
