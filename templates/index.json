@@ -3,8 +3,27 @@
     "d49c14dd-5879-4cf5-8919-905a3fc1b134": {
       "type": "slideshow",
       "blocks": {
+        "template--21848813338946__d49c14dd-5879-4cf5-8919-905a3fc1b134-slide-2": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PROGRAMMER.png",
+            "heading": "<strong>REGALOS PERFECTOS PARA PROGRAMADORES <\/strong>",
+            "heading_size": "h0",
+            "subheading": "<strong>Únicas y divertidas camisetas, tazas y regalos<\/strong>",
+            "button_label": "COMPRAR",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-3",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--21848813338946__d49c14dd-5879-4cf5-8919-905a3fc1b134-slide-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/sale-tag.jpg",
             "heading": "<strong>25% de descuento en todo.<\/strong>",
@@ -20,29 +39,11 @@
             "color_scheme": "scheme-3",
             "text_alignment_mobile": "left"
           }
-        },
-        "template--21848813338946__d49c14dd-5879-4cf5-8919-905a3fc1b134-slide-2": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/PROGRAMMER.png",
-            "heading": "<strong>REGALOS PERFECTOS PARA PROGRAMADORES <\/strong>",
-            "heading_size": "h0",
-            "subheading": "Únicas y divertidas camisetas, tazas y regalos",
-            "button_label": "COMPRAR",
-            "link": "shopify:\/\/collections\/all",
-            "button_style_secondary": false,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "scheme-3",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "template--21848813338946__d49c14dd-5879-4cf5-8919-905a3fc1b134-slide-1",
-        "template--21848813338946__d49c14dd-5879-4cf5-8919-905a3fc1b134-slide-2"
+        "template--21848813338946__d49c14dd-5879-4cf5-8919-905a3fc1b134-slide-2",
+        "template--21848813338946__d49c14dd-5879-4cf5-8919-905a3fc1b134-slide-1"
       ],
       "settings": {
         "layout": "grid",
