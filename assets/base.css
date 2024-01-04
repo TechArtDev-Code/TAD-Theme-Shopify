@@ -2803,10 +2803,9 @@ details[open] > .header__submenu {
 .header__menu-item {
   /* padding: 1.2rem; */
   background: gray;
-  width: 10rem;
+  width: 8rem;
   text-decoration: none;
   /* color: rgba(var(--color-foreground), 0.75); */
-  text-align: center;
   color: #1A1F35;
   margin-right: 5px;
 }
