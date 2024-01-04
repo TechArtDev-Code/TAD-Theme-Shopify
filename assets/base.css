@@ -2807,6 +2807,7 @@ details[open] > .header__submenu {
   text-decoration: none;
   /* color: rgba(var(--color-foreground), 0.75); */
   color: #1A1F35;
+  margin-right: 5px;
 }
 
 .header__menu-item:hover {
