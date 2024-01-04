@@ -2,28 +2,40 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
-    "announcement-bar": {
+    "3e33e393-c1e3-464c-9508-fa944441c0c6": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
+        "7278821d-d00a-4532-823e-0b29a4c31f88": {
           "type": "announcement",
           "settings": {
-            "text": "25% de descuento en todos los productos",
+            "text": "25% de descuentos en todos los productos",
             "link": "shopify:\/\/collections\/all"
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "7278821d-d00a-4532-823e-0b29a4c31f88"
       ],
       "settings": {
         "color_scheme": "",
         "show_line_separator": true,
-        "show_social": true,
+        "show_social": false,
         "auto_rotate": false,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false
+      }
+    },
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {
+        "color_scheme": "scheme-3",
+        "show_line_separator": true,
+        "show_social": true,
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "enable_country_selector": true,
+        "enable_language_selector": true
       }
     },
     "header": {
@@ -46,6 +58,7 @@
     }
   },
   "order": [
+    "3e33e393-c1e3-464c-9508-fa944441c0c6",
     "announcement-bar",
     "header"
   ]
