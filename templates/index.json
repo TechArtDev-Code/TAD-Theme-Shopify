@@ -130,20 +130,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "camisetas-de-programacion"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
-            "second_image": false
+            "product": "camiseta-de-modo-de-codigo-activado",
+            "second_image": true
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "tazas-de-programacion"
           }
         }
       },
@@ -152,9 +152,8 @@
         "product",
         "collection-1"
       ],
-      "disabled": true,
       "settings": {
-        "heading": "Multimedia collage",
+        "heading": "",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
