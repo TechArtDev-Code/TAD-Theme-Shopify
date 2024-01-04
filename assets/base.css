@@ -2813,7 +2813,6 @@ details[open] > .header__submenu {
 
 .header__menu-item:hover {
   /* color: rgb(var(--color-foreground)); */
-  font-weight: 700;
   text-shadow: 0 0 10px #1A1F35;
 }
 
@@ -2844,6 +2843,7 @@ details[open] > .header__menu-item .icon-caret {
   text-decoration: underline;
   text-underline-offset: 0.3rem; */
   text-shadow: 0 0 10px #1A1F35;
+  font-weight: 700;
 }
 
 .header__menu-item:hover .header__active-menu-item {
