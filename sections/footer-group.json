@@ -14,7 +14,6 @@
         },
         "footer-1": {
           "type": "link_list",
-          "disabled": true,
           "settings": {
             "heading": "Info",
             "menu": "footer"
@@ -22,10 +21,9 @@
         },
         "footer-2": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "subtext": "<p>TechArtDev es una marca inspirada para programadores apasionados que buscan mostrar con orgullo su pasión por la tecnología atreves de la moda. Desde programación, juegos hasta obras de arte icónicas, con impresionantes ilustraciones, nuestra colección está hecha con productos de primera calidad, se imprimen y se mandan desde los EE. UU.<\/p><h3><\/h3>"
           }
         }
       },
