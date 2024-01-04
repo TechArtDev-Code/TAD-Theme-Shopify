@@ -2848,6 +2848,8 @@ details[open] > .header__menu-item .icon-caret {
 
 .header__menu-item:hover .header__active-menu-item {
   text-decoration-thickness: 0.2rem;
+  color: #1A1F35;
+  text-shadow: none;
 }
 
 .header__submenu {
