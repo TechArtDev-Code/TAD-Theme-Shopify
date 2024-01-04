@@ -163,51 +163,6 @@
         "padding_bottom": 36
       }
     },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "TechArtDev inspirar y recrea el arte tecnológico.",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>¡Bienvenido a nuestra tienda! Aquí encontrarás una amplia gama de artículos con diseños personalizados e impresionantes ilustraciones. Nuestra pasión por la creatividad y la innovación se refleja en cada uno de nuestros productos únicos.<br\/><br\/>Desde programación, juegos hasta obras de arte icónicas, con impresionantes ilustraciones, nuestra colección está hecha para aquellos que buscan incorporar su pasión a su vida cotidiana. Cada diseño está cuidadosamente diseñado para capturar la esencia y llevarla al mundo de la moda.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "scheme-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "video": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -261,6 +216,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "TechArtDev inspirar y recrea el arte tecnológico.",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>¡Bienvenido a nuestra tienda! Aquí encontrarás una amplia gama de artículos con diseños personalizados e impresionantes ilustraciones. Nuestra pasión por la creatividad y la innovación se refleja en cada uno de nuestros productos únicos.<br\/><br\/>Desde programación, juegos hasta obras de arte icónicas, con impresionantes ilustraciones, nuestra colección está hecha para aquellos que buscan incorporar su pasión a su vida cotidiana. Cada diseño está cuidadosamente diseñado para capturar la esencia y llevarla al mundo de la moda.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "scheme-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "video": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -268,8 +268,8 @@
     "featured_collection",
     "1f6c316a-6468-4fd8-9bf4-19a649168766",
     "collage",
+    "multicolumn",
     "rich_text",
-    "video",
-    "multicolumn"
+    "video"
   ]
 }
