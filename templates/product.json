@@ -73,8 +73,8 @@
           "settings": {
             "heading": "Guía de Tallas",
             "icon": "ruler",
-            "content": "{{ product.metafields.custom.care_instructions | metafield_tag }}",
-            "page": ""
+            "content": "",
+            "page": "size-charts"
           }
         },
         "collapsible-row-3": {
