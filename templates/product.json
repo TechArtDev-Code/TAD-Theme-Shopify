@@ -73,7 +73,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>{{ product.metafields.custom.demenciones | metafield_tag }}<\/p>",
             "page": ""
           }
         },
