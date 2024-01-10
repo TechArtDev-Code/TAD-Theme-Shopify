@@ -71,9 +71,9 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
+            "heading": "Guía de Tallas",
             "icon": "ruler",
-            "content": "<p>{{ product.metafields.custom.demenciones | metafield_tag }}<\/p>",
+            "content": "<p>{{ product.metafields.custom.guia_de_tallas | metafield_tag }}<\/p>",
             "page": ""
           }
         },
