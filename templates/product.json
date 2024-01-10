@@ -53,18 +53,18 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
+            "heading": "Materiales",
             "icon": "leather",
-            "content": "",
+            "content": "{{ product.metafields.custom.materials | metafield_tag }}",
             "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
+            "heading": "Processing & Shipping",
             "icon": "truck",
-            "content": "",
+            "content": "{{ product.metafields.custom.processing_and_shipping | metafield_tag }}",
             "page": ""
           }
         },
@@ -82,7 +82,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "{{ product.metafields.custom.care_instructions | metafield_tag }}",
             "page": ""
           }
         },
