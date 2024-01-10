@@ -73,7 +73,7 @@
           "settings": {
             "heading": "Guía de Tallas",
             "icon": "ruler",
-            "content": "<p>{{ product.metafields.custom.guia_de_tallas.value }}<\/p>",
+            "content": "{{ product.metafields.custom.care_instructions | metafield_tag }}",
             "page": ""
           }
         },
