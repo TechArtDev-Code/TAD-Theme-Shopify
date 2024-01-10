@@ -73,7 +73,7 @@
           "settings": {
             "heading": "Guía de Tallas",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>{{ product.metafields.custom.guia_de_tallas.value }}<\/p>",
             "page": ""
           }
         },
@@ -89,7 +89,7 @@
         "share": {
           "type": "share",
           "settings": {
-            "share_label": "Share"
+            "share_label": "Compartir"
           }
         }
       },
