@@ -62,7 +62,7 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Processing & Shipping",
+            "heading": "Procesamiento & Envió",
             "icon": "truck",
             "content": "{{ product.metafields.custom.processing_and_shipping | metafield_tag }}",
             "page": ""
