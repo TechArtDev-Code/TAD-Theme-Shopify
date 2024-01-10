@@ -6,57 +6,9 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "image_with_text_FeYQWY": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_76QcaH": {
-          "type": "heading",
-          "settings": {
-            "heading": "TechArtDev",
-            "heading_size": "h1"
-          }
-        },
-        "text_6q6PEA": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Es una marca inspirada para programadores apasionados que buscan mostrar con orgullo su pasión por la tecnología atreves de la moda. Desde programación, juegos hasta obras de arte icónicas, con impresionantes ilustraciones, nuestra colección está hecha con productos de primera calidad, se imprimen y se mandan desde los EE. UU.<\/p><p><\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_TyCUQ6": {
-          "type": "button",
-          "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_76QcaH",
-        "text_6q6PEA",
-        "button_TyCUQ6"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/TAD_logo_solid.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "main",
-    "image_with_text_FeYQWY"
+    "main"
   ]
 }
