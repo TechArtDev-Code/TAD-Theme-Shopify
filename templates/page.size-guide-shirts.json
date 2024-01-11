@@ -21,6 +21,7 @@
         "heading_6kr4Bt",
         "text_6QgBdM"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "left",
@@ -36,14 +37,14 @@
         "heading_CATPNb": {
           "type": "heading",
           "settings": {
-            "heading": "",
+            "heading": "Camiseta unisex",
             "heading_size": "h1"
           }
         },
         "text_QMzKcc": {
           "type": "text",
           "settings": {
-            "text": "<p>Esta camiseta se presenta en 7 tallas diferentes: <strong>XS, S, M, L, XL, 2XL, 3XL.<\/strong><\/p><p><strong>Ajuste regular: <\/strong>De longitud estándar, el tejido se adapta fácilmente al movimiento.<\/p><p><strong>Estilo casual:<\/strong> Una opción clásica para todos los días que a nuestros clientes les encanta.<\/p><p><strong>Pespuntes laterales: <\/strong>Confeccionado mediante la costura de dos partes juntas, con lo que se crea un estilo ajustado<\/p>",
+            "text": "<p>Esta camiseta premium unisex tiene un tacto suave y ligero y las dosis justas de elasticidad. Su corte cómodo y unisex favorece a cualquiera. A continuación se presenta una tabla de tallas para ayudarle a seleccionar su talla correcta.<\/p><p>Esta camiseta se presenta en 7 tallas diferentes: <strong>XS, S, M, L, XL, 2XL, 3XL.<\/strong><\/p><p><strong>Ajuste regular: <\/strong>De longitud estándar, el tejido se adapta fácilmente al movimiento.<\/p><p><strong>Estilo casual:<\/strong> Una opción clásica para todos los días que a nuestros clientes les encanta.<\/p><p><strong>Pespuntes laterales: <\/strong>Confeccionado mediante la costura de dos partes juntas, con lo que se crea un estilo ajustado<\/p>",
             "text_style": "body"
           }
         }
