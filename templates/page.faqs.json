@@ -45,13 +45,23 @@
             "row_content": "<p>Comuníquese con nosotros si es que a pasado mas de una semana después de la entrega estimada y no recibió su articulo y así ayudarlo a rastrear su pedido.   <\/p>",
             "page": ""
           }
+        },
+        "collapsible_row_mjELbM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo cambiar o cancelar mi pedido?",
+            "icon": "check_mark",
+            "row_content": "<p>Se puede hacer un cambio o cancelación de su pedido únicamente dos horas posteriores a la realización de su pedido, si es que ya paso ese tiempo ya no puede hacer ningún cambio o cancelación de su pedido debido a que se pone en cola para su fabricación. <\/p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_PLpJgM",
         "collapsible_row_hwcJ9n",
         "collapsible_row_VQKVqb",
-        "collapsible_row_Hg9UAP"
+        "collapsible_row_Hg9UAP",
+        "collapsible_row_mjELbM"
       ],
       "settings": {
         "caption": "",
