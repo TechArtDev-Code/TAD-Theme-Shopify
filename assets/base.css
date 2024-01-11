@@ -150,7 +150,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
   .page-width--narrow {
     /* max-width: 72.6rem; */
     max-width: 120rem;
-    padding: 0;
+    padding: 0 5rem;
   }
 
   .page-width-desktop {
