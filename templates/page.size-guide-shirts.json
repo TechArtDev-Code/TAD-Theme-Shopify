@@ -45,7 +45,7 @@
       "type": "main-page",
       "custom_css": [
         "h1 {font-size: 32px;}",
-        "div {width: 1200px; margin: 0;}"
+        "div {}"
       ],
       "settings": {
         "padding_top": 0,
