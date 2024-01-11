@@ -13,37 +13,15 @@
     "rich_text_aX9bA6": {
       "type": "rich-text",
       "blocks": {
-        "heading_wzxyjh": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
         "text_QBqHCM": {
           "type": "text",
           "settings": {
             "text": "<p>TechArtDev una marca inspirada para programadores apasionados que buscan mostrar con orgullo su pasión por la tecnología atreves de la moda. Desde programación, juegos hasta obras de arte icónicas, con impresionantes ilustraciones, nuestra colección está hecha con productos de primera calidad, se imprimen y se mandan desde los EE. UU.<\/p>"
           }
-        },
-        "button_8tpA6V": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "heading_wzxyjh",
-        "text_QBqHCM",
-        "button_8tpA6V"
+        "text_QBqHCM"
       ],
       "custom_css": [
         ".rich-text__wrapper--center {justify-content: space-between !important;}",
@@ -54,8 +32,8 @@
         "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 32
       }
     },
     "image_with_text_TT7FKQ": {
@@ -84,8 +62,8 @@
         "color_scheme": "scheme-2",
         "image_behavior": "none",
         "mobile_content_alignment": "left",
-        "padding_top": 32,
-        "padding_bottom": 32
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     }
   },
