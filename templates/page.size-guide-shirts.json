@@ -1,46 +1,5 @@
 {
   "sections": {
-    "image_with_text_AAGzwB": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_CATPNb": {
-          "type": "heading",
-          "settings": {
-            "heading": "Camiseta unisex",
-            "heading_size": "h1"
-          }
-        },
-        "text_QMzKcc": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Esta camiseta premium unisex tiene un tacto suave y ligero y las dosis justas de elasticidad. Su corte cómodo y unisex favorece a cualquiera. A continuación se presenta una tabla de tallas para ayudarle a seleccionar su talla correcta.<\/p><p>Esta camiseta se presenta en 7 tallas diferentes: <strong>XS, S, M, L, XL, 2XL, 3XL.<\/strong><\/p><p><strong>Ajuste regular: <\/strong>De longitud estándar, el tejido se adapta fácilmente al movimiento.<\/p><p><strong>Estilo casual:<\/strong> Una opción clásica para todos los días que a nuestros clientes les encanta.<\/p><p><strong>Pespuntes laterales: <\/strong>Confeccionado mediante la costura de dos partes juntas, con lo que se crea un estilo ajustado<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "heading_CATPNb",
-        "text_QMzKcc"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/unisex-staple-t-shirt-black-front-658e247a22514.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "section_color_scheme": "",
-        "color_scheme": "",
-        "image_behavior": "none",
-        "mobile_content_alignment": "center",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "main": {
       "type": "main-page",
       "custom_css": [
@@ -53,7 +12,6 @@
     }
   },
   "order": [
-    "image_with_text_AAGzwB",
     "main"
   ]
 }
