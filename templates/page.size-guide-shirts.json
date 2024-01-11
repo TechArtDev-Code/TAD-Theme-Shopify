@@ -1,36 +1,5 @@
 {
   "sections": {
-    "rich_text_HrWCnN": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_6kr4Bt": {
-          "type": "heading",
-          "settings": {
-            "heading": "Camiseta unisex",
-            "heading_size": "h1"
-          }
-        },
-        "text_6QgBdM": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Esta camiseta premium unisex tiene un tacto suave y ligero y las dosis justas de elasticidad. Su corte cómodo y unisex favorece a cualquiera. A continuación se presenta una tabla de tallas para ayudarle a seleccionar su talla correcta.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_6kr4Bt",
-        "text_6QgBdM"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "image_with_text_AAGzwB": {
       "type": "image-with-text",
       "blocks": {
@@ -75,7 +44,8 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        "h1 {font-size: 32px;}"
+        "h1 {font-size: 32px;}",
+        "div {width: 1200px; margin: 0;}"
       ],
       "settings": {
         "padding_top": 0,
@@ -84,7 +54,6 @@
     }
   },
   "order": [
-    "rich_text_HrWCnN",
     "image_with_text_AAGzwB",
     "main"
   ]
