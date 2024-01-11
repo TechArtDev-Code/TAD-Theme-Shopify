@@ -59,7 +59,7 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Productos recién agregados",
+        "title": "Productos destacados",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
@@ -113,7 +113,7 @@
       ],
       "settings": {
         "title": "Colecciones",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
         "color_scheme": "",
@@ -127,35 +127,37 @@
     "collage": {
       "type": "collage",
       "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "camisetas-de-programacion"
-          }
-        },
-        "product": {
+        "product_KWnX6Q": {
           "type": "product",
           "settings": {
-            "product": "camiseta-de-modo-de-codigo-activado",
-            "second_image": true
+            "product": "taza-para-programadores-taza-motivacional-para-programadores-regalo-para-programadores",
+            "second_image": false
           }
         },
-        "collection-1": {
-          "type": "collection",
+        "product_Qk7MqG": {
+          "type": "product",
           "settings": {
-            "collection": "tazas-de-programacion"
+            "product": "programmer-mug-coding-coffee-mug-programmer-gift",
+            "second_image": false
+          }
+        },
+        "product_pcaTc6": {
+          "type": "product",
+          "settings": {
+            "product": "camiseta-unisex-para-programador-regalo-inspiracional-camiseta-de-programacion",
+            "second_image": false
           }
         }
       },
       "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
+        "product_KWnX6Q",
+        "product_Qk7MqG",
+        "product_pcaTc6"
       ],
       "settings": {
-        "heading": "",
+        "heading": "Productos recién agregados.",
         "heading_size": "h2",
-        "desktop_layout": "left",
+        "desktop_layout": "right",
         "mobile_layout": "collage",
         "card_styles": "product-card-wrapper",
         "color_scheme": "scheme-1",
