@@ -6,9 +6,71 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "collapsible_content_aXGai8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_PLpJgM": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Puedo cambiar mi dirección de envío después de realizar el pedido?",
+            "icon": "none",
+            "row_content": "<p>Solo puede realizar cambios en la dirección dentro de las dos horas posteriores a la realización del pedido.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_hwcJ9n": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Aceptan cambios o devoluciones?",
+            "icon": "none",
+            "row_content": "<p>Debido a que el producto se fabrica a pedido, solo podemos aceptar devoluciones o cambios si el artículo llega mal impreso, dañado o defectuoso. Inspeccione su pedido al recibirlo y comuníquese con nosotros de inmediato si el artículo está defectuoso o dañado, para que podamos evaluar el problema y corregirlo.No es posible cambiar un artículo por otro tamaño\/color. Si no está seguro de qué talla le quedaría mejor, consulte nuestras tablas de tallas; tenemos uno para cada artículo<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_VQKVqb": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "¿Cuánto tardará en llegar mi producto?",
+            "icon": "none",
+            "row_content": "<p>Tardamos entre 2 y 5 días (en promedio 3 días) en producir y enviar los productos. <\/p><p>Después de eso, debe agregar los tiempos de envío después de producir y enviar sus productos:<\/p><ul><li>EE.UU.: 5 - 7 días hábiles <\/li><li>México: 10 - 20 días hábiles <\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Hg9UAP": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "No recibí mi pedido ¿Qué debo hacer?",
+            "icon": "none",
+            "row_content": "<p>Comuníquese con nosotros si es que a pasado mas de una semana después de la entrega estimada y no recibió su articulo y así ayudarlo a rastrear su pedido.   <\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_PLpJgM",
+        "collapsible_row_hwcJ9n",
+        "collapsible_row_VQKVqb",
+        "collapsible_row_Hg9UAP"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "collapsible_content_aXGai8"
   ]
 }
