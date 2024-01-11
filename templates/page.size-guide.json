@@ -16,7 +16,7 @@
         "h2 {font-size: 24px;}",
         ".size-chart {display: flex; justify-content: space-between;}",
         ".size-chart img {width: 50%;}",
-        "@media screen and (max-width: 749px) {.size-chart {flex-direction: column; } table {max-width: 100px !important; }}"
+        "@media screen and (max-width: 749px) {.size-chart {flex-direction: column; } .table-responsive {max-width: 200px !important; font-size: 10px; }}"
       ],
       "settings": {
         "page": "size-charts",
