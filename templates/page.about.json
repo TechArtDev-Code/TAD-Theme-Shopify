@@ -46,8 +46,8 @@
         "button_8tpA6V"
       ],
       "custom_css": [
-        ".rich-text__wrapper--center{justify-content: none;}",
-        ".rich-text__blocks {width: 100%;}"
+        ".rich-text__wrapper--center {justify-content: space-between !important; }",
+        ".rich-text__blocks {width: 100% !important;}"
       ],
       "settings": {
         "desktop_content_position": "center",
