@@ -6,9 +6,85 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "rich_text_aX9bA6": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wzxyjh": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_QBqHCM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TechArtDev una marca inspirada para programadores apasionados que buscan mostrar con orgullo su pasión por la tecnología atreves de la moda. Desde programación, juegos hasta obras de arte icónicas, con impresionantes ilustraciones, nuestra colección está hecha con productos de primera calidad, se imprimen y se mandan desde los EE. UU.<\/p>"
+          }
+        },
+        "button_8tpA6V": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_wzxyjh",
+        "text_QBqHCM",
+        "button_8tpA6V"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_TT7FKQ": {
+      "type": "image-with-text",
+      "blocks": {
+        "text_LNX3nA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TechArtDev creada en 2023 por un desarrollador apasionado por la programación y la tecnología igual que tu.<\/p><p>Soy Luis un desarrollador que le gusta el diseño, apasionado por el desarrollo front-end todos los diseños que encontraras en esta tienda son creados por mi.<\/p><p>¿Cómo surgió la idea de crear TechArtDev?  <\/p><p>En un principio quería tener una prenda con algo alusivo a la programación para usar en el trabajo, pero quería que tuviera un toque único y fue cuando pensé en realizar mi propio diseño para mandarlo a imprimir en una camiseta, solo que vi un poco difícil buscar a alguien que hiciera este trabajo para mi, pero no me quede atrás así que decidí buscar y contactar a un proveedor que ofreciera artículos de buena calidad para mandar a imprimir mi camiseta con mi propio diseño. Tras esto vi una gran oportunidad de emprendimiento y es por eso que me decido a crear TechArtDev y ahora a través de de esta tienda te comparto mis diseños en productos de buena calidad, diseños únicos que no se encuentran en otro lugar. <\/p><p>La misión de TechArtDev es crear productos premium con diseños únicos para desarrolladores que quieren expresar su pasión por la tecnología y la programación de una manera elegante y vanguardista. <\/p><p><\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "text_LNX3nA"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Design_white.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "rich_text_aX9bA6",
+    "image_with_text_TT7FKQ"
   ]
 }
