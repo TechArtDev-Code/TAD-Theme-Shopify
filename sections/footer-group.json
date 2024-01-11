@@ -22,7 +22,7 @@
         "footer-1": {
           "type": "link_list",
           "settings": {
-            "heading": "Links Útiles",
+            "heading": "Enlaces Útiles",
             "menu": "footer"
           }
         },
