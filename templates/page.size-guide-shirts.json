@@ -12,6 +12,9 @@
     },
     "image_with_text_AAGzwB": {
       "type": "image-with-text",
+      "custom_css": [
+        "#ImageWithText--template--21952213385538__image_with_text_AAGzwB{height: 20px;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/unisex-staple-t-shirt-black-front-658e247a22514.png",
         "height": "adapt",
