@@ -5,16 +5,32 @@
     "3e33e393-c1e3-464c-9508-fa944441c0c6": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_HDjFar": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        },
         "7278821d-d00a-4532-823e-0b29a4c31f88": {
           "type": "announcement",
           "settings": {
             "text": "15% de descuento en todos los productos",
             "link": "shopify:\/\/collections\/all"
           }
+        },
+        "announcement_cCNQtJ": {
+          "type": "announcement",
+          "settings": {
+            "text": "Envíos gratis a EE. UU. en pedidos mayores a $70",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "7278821d-d00a-4532-823e-0b29a4c31f88"
+        "announcement_HDjFar",
+        "7278821d-d00a-4532-823e-0b29a4c31f88",
+        "announcement_cCNQtJ"
       ],
       "settings": {
         "color_scheme": "scheme-4797e2b8-b5a4-4150-86d7-0f5bdbe73d7e",
