@@ -139,7 +139,7 @@
         </div>
       </div>
       <div class="card__content">
-        <div class="card__information">
+        <div class="card__information" style="display: grid;">
           {%- if show_vendor -%}
               <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
               <div class="caption-with-letter-spacing light" style="margin-bottom: 10px">{{ card_product.vendor }}</div>
@@ -159,7 +159,7 @@
               {{ card_product.title | escape }}
             </a>
           </h3>
-          <div class="card-information">
+          <div class="card-information" style="">
             <!-- {%- if show_vendor -%}
               <span class="visually-hidden">{{ 'accessibility.vendor' | t }}</span>
               <div class="caption-with-letter-spacing light">{{ card_product.vendor }}</div>
