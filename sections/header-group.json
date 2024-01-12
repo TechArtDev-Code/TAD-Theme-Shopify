@@ -8,7 +8,7 @@
         "announcement_HDjFar": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Bienvenido a TechArtDev",
             "link": ""
           }
         },
@@ -37,7 +37,7 @@
         "show_line_separator": true,
         "show_social": false,
         "auto_rotate": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "enable_country_selector": false,
         "enable_language_selector": false
       }
