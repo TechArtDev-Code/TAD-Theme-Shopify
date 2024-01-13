@@ -119,6 +119,7 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/TAD_logo_black_transparent.png",
     "checkout_logo_position": "left",
     "checkout_logo_size": "medium",
+    "checkout_input_background_color_mode": "white",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
