@@ -26,12 +26,20 @@
             "text": "Envíos gratis en EE. UU. en pedidos de camisetas mayores a $70",
             "link": ""
           }
+        },
+        "announcement_XdbDmh": {
+          "type": "announcement",
+          "settings": {
+            "text": "Envíos gratis en EE. UU. en pedidos de tazas mayores a $80",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "announcement_HDjFar",
         "7278821d-d00a-4532-823e-0b29a4c31f88",
-        "announcement_cCNQtJ"
+        "announcement_cCNQtJ",
+        "announcement_XdbDmh"
       ],
       "settings": {
         "color_scheme": "scheme-4797e2b8-b5a4-4150-86d7-0f5bdbe73d7e",
