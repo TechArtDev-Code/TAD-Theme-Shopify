@@ -16,7 +16,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "15% de descuento en todos los productos",
+            "text": "20% de descuento en todos los productos",
             "link": "shopify:\/\/collections\/all"
           }
         },
