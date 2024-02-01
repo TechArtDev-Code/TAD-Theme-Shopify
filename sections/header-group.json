@@ -14,6 +14,7 @@
         },
         "7278821d-d00a-4532-823e-0b29a4c31f88": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "15% de descuento en todos los productos",
             "link": "shopify:\/\/collections\/all"
@@ -22,7 +23,7 @@
         "announcement_cCNQtJ": {
           "type": "announcement",
           "settings": {
-            "text": "Envíos gratis en EE. UU. en pedidos mayores a $50",
+            "text": "Envíos gratis en EE. UU. en pedidos de camisetas mayores a $70",
             "link": ""
           }
         }
