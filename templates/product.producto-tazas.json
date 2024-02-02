@@ -64,7 +64,7 @@
           "settings": {
             "heading": "Diensiones",
             "icon": "ruler",
-            "content": "",
+            "content": "{{ product.metafields.custom._dimensions | metafield_tag }}",
             "page": ""
           }
         },
