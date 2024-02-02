@@ -104,18 +104,25 @@
           "settings": {
             "collection": "camisetas-de-juegos"
           }
+        },
+        "featured_collection_KGxcBr": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "camisetas-de-ciencia"
+          }
         }
       },
       "block_order": [
         "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-1",
         "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-2",
-        "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-3"
+        "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-3",
+        "featured_collection_KGxcBr"
       ],
       "settings": {
         "title": "Colecciones",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",
