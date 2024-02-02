@@ -64,7 +64,7 @@
           "settings": {
             "heading": "Diensiones",
             "icon": "ruler",
-            "content": "{{ product.metafields.custom._dimensions | metafield_tag }}",
+            "content": "<p>Taza de 11 oz: <\/p><ul><li>9,6 cm (3,8″) de altura, <\/li><li>8,2 cm (3,2″) de diámetro<\/li><\/ul>",
             "page": ""
           }
         },
