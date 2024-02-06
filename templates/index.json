@@ -129,7 +129,7 @@
         "title": "Colecciones",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "",
         "show_view_all": true,
         "columns_mobile": "2",
