@@ -99,6 +99,12 @@
             "collection": "tazas-de-programacion"
           }
         },
+        "featured_collection_kKFt4y": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sudaderas-de-programacion"
+          }
+        },
         "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
@@ -110,20 +116,14 @@
           "settings": {
             "collection": "camisetas-de-ciencia"
           }
-        },
-        "featured_collection_kKFt4y": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "sudaderas-de-programacion"
-          }
         }
       },
       "block_order": [
         "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-1",
         "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-2",
+        "featured_collection_kKFt4y",
         "template--21848813338946__1f6c316a-6468-4fd8-9bf4-19a649168766-featured_collection-3",
-        "featured_collection_KGxcBr",
-        "featured_collection_kKFt4y"
+        "featured_collection_KGxcBr"
       ],
       "settings": {
         "title": "Colecciones",
